@@ -1,5 +1,8 @@
 # excel_comp_team_106
 
+![Alt text](https://github.com/oveizon/excel_comp_team_106\landing.jpg)
+
+
 Project requirement: To create a web application that compares two excel files
 
 ## Product Name
@@ -45,7 +48,7 @@ The goal of the project is to provide a simple user friendly platform that would
 
 + Clone main branch to folder: git clone --branch main https://github.com/zuri-training/excel_comp_team_106.
 
-+ Create virtual environment: python3 -m venv venv (or your preferred virtual environment)
++ Create virtual environment: python -m venv venv (or your preferred virtual environment)
 
 + Activate virtual environment: For Mac (source venv/bin/activate), Windows (.\venv\Scripts\activate)
 
