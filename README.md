@@ -6,6 +6,9 @@ Project requirement: To create a web application that compares two excel files
 
 ### XL Sweep
 
+![landing](https://user-images.githubusercontent.com/105331892/236694797-189ca597-86a3-4642-9ba5-7539c2f909f6.jpg)
+
+
 ## Goal of The Project
 
 The goal of the project is to provide a simple user friendly platform that would enable users to easily compare excel files, see the differences that exist in both files, make simple changes and export their results.
@@ -45,7 +48,7 @@ The goal of the project is to provide a simple user friendly platform that would
 
 + Clone main branch to folder: git clone --branch main https://github.com/zuri-training/excel_comp_team_106.
 
-+ Create virtual environment: python3 -m venv venv (or your preferred virtual environment)
++ Create virtual environment: python -m venv venv (or your preferred virtual environment)
 
 + Activate virtual environment: For Mac (source venv/bin/activate), Windows (.\venv\Scripts\activate)
 
